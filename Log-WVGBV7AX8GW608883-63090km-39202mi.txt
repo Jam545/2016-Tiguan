@@ -1,0 +1,648 @@
+Sunday,07,February,2021,23:16:21:50373
+VCDS -- Windows Based VAG/VAS Emulator Running on Windows 7 x64
+VCDS Version: 20.12.0.1 (x64)  HEX-V2 CB: 0.4529.4
+Data version: 20201125 DS322.1
+www.Ross-Tech.com
+
+
+VIN: WVGBV7AX8GW608883   License Plate: 
+Mileage: 63090km-39202mi   Repair Order: 
+
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+Chassis Type: AX-VW36 (7N0)
+Scan: 01 02 03 05 08 09 15 16 17 19 22 25 2B 36 42 44 46 47 4C 4F
+          52 53 55 5F 62 6C 72 75
+
+VIN: WVGBV7AX8GW608883   Mileage: 63090km-39202miles
+
+01-Engine -- Status: Malfunction 0010
+02-Auto Trans -- Status: OK 0000
+03-ABS Brakes -- Status: Malfunction 0010
+04-Steering Angle -- Status: OK 0000
+05-Acc/Start Auth. -- Status: OK 0000
+08-Auto HVAC -- Status: OK 0000
+09-Cent. Elect. -- Status: OK 0000
+15-Airbags -- Status: Malfunction 0010
+16-Steering wheel -- Status: OK 0000
+17-Instruments -- Status: OK 0000
+19-CAN Gateway -- Status: OK 0000
+22-AWD -- Status: OK 0000
+25-Immobilizer -- Status: OK 0000
+2B-Steer. Col. Lock -- Status: Malfunction 0010
+36-Seat Mem. Drvr -- Status: OK 0000
+42-Door Elect, Driver -- Status: OK 0000
+44-Steering Assist -- Status: OK 0000
+46-Central Conv. -- Status: OK 0000
+47-Sound System -- Status: OK 0000
+4C-Tire Pressure II -- Status: OK 0000
+4F-Centr. Electr. II -- Status: Malfunction 0010
+52-Door Elect, Pass. -- Status: OK 0000
+53-Parking Brake -- Status: Malfunction 0010
+55-Headlight Range -- Status: OK 0000
+5F-Information Electr. -- Status: Malfunction 0010
+62-Door, Rear Left -- Status: OK 0000
+6C-Back-up Cam. -- Status: OK 0000
+72-Door, Rear Right -- Status: OK 0000
+75-Telematics -- Status: OK 0000
+-------------------------------------------------------------------------------
+Address 01: Engine (CCT)       Labels:. 06J-906-026-CCT.clb
+   Part No SW: 06J 906 027 JP    HW: 06J 907 309 A
+   Component: MED17.5.2 TFSI 2 07 1335  
+   Revision: P3H08---    Serial number:               
+   Coding: 0423010A190F0160
+   Shop #: WSC 01357 011 00200
+   VCID: 025D886B78035D4B656-8056
+
+6 Faults Found:
+000768 - Random/Multiple Cylinder Misfire Detected 
+               P0300 - 000 -  - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100000
+                    Fault Priority: 0
+                    Fault Frequency: 1
+                    Reset counter: 255
+                    Mileage: 62856 km
+                    Time Indication: 0
+                    Date: 2021.01.30
+                    Time: 19:19:48
+
+             Freeze Frame:
+                    RPM: 806 /min
+                    Load: 28.2 %
+                    Speed: 0.0 km/h
+                    Temperature: 69.0°C
+                    Temperature: 34.0°C
+                    Absolute Pres.: 980.0 mbar
+                    Voltage: 13.843 V
+
+000770 - Cylinder 2 
+               P0302 - 000 - Misfire Detected - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100000
+                    Fault Priority: 0
+                    Fault Frequency: 1
+                    Reset counter: 255
+                    Mileage: 62856 km
+                    Time Indication: 0
+                    Date: 2021.01.30
+                    Time: 19:19:48
+
+             Freeze Frame:
+                    RPM: 813 /min
+                    Load: 28.2 %
+                    Speed: 0.0 km/h
+                    Temperature: 69.0°C
+                    Temperature: 34.0°C
+                    Absolute Pres.: 980.0 mbar
+                    Voltage: 13.970 V
+
+000771 - Cylinder 3 
+               P0303 - 000 - Misfire Detected - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100000
+                    Fault Priority: 0
+                    Fault Frequency: 1
+                    Reset counter: 255
+                    Mileage: 62856 km
+                    Time Indication: 0
+                    Date: 2021.01.30
+                    Time: 19:19:48
+
+             Freeze Frame:
+                    RPM: 805 /min
+                    Load: 27.0 %
+                    Speed: 0.0 km/h
+                    Temperature: 69.0°C
+                    Temperature: 34.0°C
+                    Absolute Pres.: 980.0 mbar
+                    Voltage: 13.970 V
+
+000772 - Cylinder 4 
+               P0304 - 000 - Misfire Detected - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100000
+                    Fault Priority: 0
+                    Fault Frequency: 1
+                    Reset counter: 255
+                    Mileage: 62856 km
+                    Time Indication: 0
+                    Date: 2021.01.30
+                    Time: 19:19:59
+
+             Freeze Frame:
+                    RPM: 861 /min
+                    Load: 31.8 %
+                    Speed: 0.0 km/h
+                    Temperature: 66.0°C
+                    Temperature: 33.0°C
+                    Absolute Pres.: 980.0 mbar
+                    Voltage: 13.462 V
+
+000769 - Cylinder 1 
+               P0301 - 000 - Misfire Detected - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100000
+                    Fault Priority: 0
+                    Fault Frequency: 1
+                    Reset counter: 255
+                    Mileage: 62856 km
+                    Time Indication: 0
+                    Date: 2021.01.30
+                    Time: 19:19:59
+
+             Freeze Frame:
+                    RPM: 726 /min
+                    Load: 30.2 %
+                    Speed: 0.0 km/h
+                    Temperature: 66.0°C
+                    Temperature: 33.0°C
+                    Absolute Pres.: 980.0 mbar
+                    Voltage: 13.208 V
+
+001286 - Idle Control System 
+               P0506 - 000 - RPM Lower than Expected - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100000
+                    Fault Priority: 0
+                    Fault Frequency: 1
+                    Reset counter: 255
+                    Mileage: 62856 km
+                    Time Indication: 0
+                    Date: 2021.01.30
+                    Time: 19:20:02
+
+             Freeze Frame:
+                    RPM: 877 /min
+                    Load: 32.5 %
+                    Speed: 0.0 km/h
+                    Temperature: 66.0°C
+                    Temperature: 33.0°C
+                    Absolute Pres.: 980.0 mbar
+                    Voltage: 13.843 V
+
+Readiness: 0000 0000
+
+-------------------------------------------------------------------------------
+Address 02: Auto Trans        Labels: 09G-927-750.clb
+   Part No SW: 09G 927 750 NK    HW: 09G 927 750 NK
+   Component: AQ 250 6F           2627  
+   Revision: 00H97000    Serial number:               
+   Coding: 0000840
+   Shop #: WSC 01357 011 00200
+   VCID: 074B997F53217863328-8052
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 03: ABS Brakes        Labels: 5N0-614-109-C6.clb
+   Part No SW: 5N0 614 109 BN    HW: 5N0 614 109 BN
+   Component: J104   C6 450M VD02 0021  
+   Revision: --H07---    Serial number: 00000009165597
+   Coding: 0005161
+   Shop #: WSC 01357 011 00200
+   VCID: 78A9EA832EDF079B4B2-802C
+
+1 Fault Found:
+02214 - Tire Pressure Warning 
+            002 - Lower Limit Exceeded
+             Freeze Frame:
+                    Fault Status: 01100010
+                    Fault Priority: 6
+                    Fault Frequency: 12
+                    Reset counter: 2
+                    Mileage: 63091 km
+                    Time Indication: 0
+                    Date: 2021.02.06
+                    Time: 18:57:35
+
+             Freeze Frame:
+                    Speed: 0.0 km/h
+                    Hex Value: 0x0000
+                    Bin. Bits: 00000000 00000000
+                    Voltage: 14.25 V
+                    Bin. Bits: 00011111
+                    Count: 185
+                    Hex Value: 0x0000
+
+
+-------------------------------------------------------------------------------
+Address 05: Acc/Start Auth. (J518)       Labels:| 5K0-959-434.clb
+   Part No SW: 5K0 959 434 E    HW: 5K0 959 434 
+   Component: VWKESSYPQ35GP 092 1202  
+   Revision: 00092000    Serial number: 0398813408
+   Coding: 030C0C
+   Shop #: WSC 01357 011 00200
+   ASAM Dataset: EV_KESSYPQ35G A02717
+   ROD: EV_KESSYPQ35G_A02_VW31.rod
+   VCID: 372B29BF6FC1C8E3828-8062
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 08: Auto HVAC (J255)       Labels:| 5K0-907-044.clb
+   Part No SW: 1K8 907 044 BS    HW: 1K8 907 044 BS
+   Component: Climatronic   H07 0405  
+   Revision: 00001K04    
+   Coding: 0010019002
+   Shop #: WSC 01357 011 00200
+   ASAM Dataset: EV_Climatronic A01010
+   ROD: EV_ClimaAutoBasis_VW36.rod
+   VCID: 015F8767718546537CC-8054
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 09: Cent. Elect. (J519)       Labels:. 1K0-937-08x-09.clb
+   Part No SW: 5K0 937 086 AB    HW: 5K0 937 086 AB
+   Component: BCM PQ35 M    122 0183  
+   Revision: BJ122001    
+   Coding: EF1A0A1B88232EC4018800C114000D4448D50006566D8DB0E4840000A040
+   Shop #: WSC 01357 011 00200
+   VCID: 74B1DEB33EB763FB67A-8020
+
+   Subsystem 1 - Part No SW: 5N1 955 119 B    HW: 5N1 955 119 B  Labels: 1KX-955-119.CLB
+   Component: WWS316 160316  24  0664 
+   Coding: 009795
+
+   Subsystem 2 - Part No: 1K0 955 559 AH  Labels: 1K0-955-559-AG.CLB
+   Component: RLS 050416 05  54  0403 
+   Coding: 02304D
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 15: Airbags        Labels: 5N0-959-655.lbl
+   Part No SW: 5N0 959 655 AB    HW: 5N0 959 655 AB
+   Component: J234__005 VW10 HI   5418  
+   Revision: 36023000    Serial number: 003MAP5C61HF  
+   Coding: 0012341
+   Shop #: WSC 01357 011 00200
+   VCID: 7DA7FB9701FD22B3184-8028
+
+   Subsystem 1 - Part No: 5N0 959 339 B
+   Component: BF-Gewichtsens. 003 0001
+
+   Subsystem 2 - Serial number: 0000000000NWRL
+
+   Subsystem 3 - Serial number: 0019.01.160000300000850102ÿ†63
+
+   Subsystem 4 - Serial number: 850102ÿ†6332MTS612850606+ÿ†63
+
+   Subsystem 5 - Serial number: 50606+ÿ†6342MTS6067407364ÿ†63
+
+   Subsystem 6 - Serial number: 407364ÿ†6351HTS6CQLK7EKRRÿ†63
+
+   Subsystem 7 - Serial number: K7EKRRÿ†6361HTS6O0075EKRLÿ†63
+
+   Subsystem 8 - Serial number: 75EKRLÿ†63727TS6VHBD7EKJ5ÿ†63
+
+   Subsystem 9 - Serial number: D7EKJ5ÿ†63827TS6BG587EKJHÿ
+
+   Subsystem 10 - Serial number: 87EKJHÿ
+
+1 Fault Found:
+03551 - Functional Restriction of Seat Occupied Recognition 
+            000 - - - Intermittent - MIL ON
+             Freeze Frame:
+                    Fault Status: 10100000
+                    Fault Priority: 2
+                    Fault Frequency: 10
+                    Reset counter: 255
+                    Mileage: 38466 km
+                    Time Indication: 0
+                    Date: 2019.08.15
+                    Time: 22:31:55
+
+
+-------------------------------------------------------------------------------
+Address 16: Steering wheel (J527)       Labels:| 5K0-953-569.clb
+   Part No SW: 5K0 953 501 DM    HW: 5K0 953 569 AP
+   Component: LENKS.MODUL   016 0180  
+   Revision: FF010042    Serial number: 20160406201414
+   Coding: 110A140000
+   Shop #: WSC 01357 011 00200
+   ASAM Dataset: EV_VW360SteerWheelUDS A03004
+   ROD: EV_VW360SteerWheelUDS.rod
+   VCID: 78A9EA83225F079B4B2-802C
+
+   Multifunction steering wheel control module: 
+   Subsystem 1 - Part No SW: 5K0 959 542 C    HW: 5K0 959 542 C  Labels: 3C8-959-537.CLB
+   Component: E221__MFL-TAS  H31 0037 
+   Serial number: 0986718             
+   Coding: 820000
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 17: Instruments (J285)       Labels:| 5K0-920-xxx-17.clb-SRI1
+   Part No SW: 5N0 920 973 L    HW: 5N0 920 973 L
+   Component: KOMBI         H04 1008  
+   Serial number: 00000000000000
+   Coding: 211F010000
+   Shop #: WSC 01357 011 00200
+   ASAM Dataset: EV_Kombi_UDS_VDD_RM09 A05730
+   ROD: EV_Kombi_UDS_VDD_RM09_005_VW25.rod
+   VCID: 3D273B974DFDE2B3584-8068
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 19: CAN Gateway (J533)       Labels:. 7N0-907-530-V2.clb
+   Part No SW: 7N0 907 530 BF    HW: 7N0 907 530 AM
+   Component: J533  Gateway H55 1673  
+   Revision:   H55       Serial number: 270316F1000090
+   Coding: 356032
+   Shop #: WSC 01357 011 00200
+   VCID: 75B7E3B735CD7AF3504-8020
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 22: AWD (J492)       Labels:* 0CQ-907-554.clb
+   Part No SW: 0AY 907 554 J    HW: 0CQ 525 130 
+   Component: Haldex4Motion H52 7540  
+   Serial number: HA1-00001.03.16
+   Coding: 0001
+   Shop #: WSC 01357 011 00200
+   ASAM Dataset: EV_AllWheelContrHA1VW37X 002015
+   ROD: EV_AllWheelContrHA1VW37X.rod
+   VCID: 52FD782BE4630DCB956-8006
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 25: Immobilizer (J334)       Labels:| 5K0-920-xxx-25.clb
+   Part No SW: 5K0 953 234     HW: 5K0 953 234 
+   Component: IMMO          H04 1008  
+   Serial number: 00000000000000
+   Coding: 000007
+   Shop #: WSC 01357 011 00200
+   ASAM Dataset: EV_Immo_UDS_VDD_RM09 A03710
+   ROD: EV_Immo_UDS_VDD_RM09_VW23.rod
+   VCID: 6A8DC0CB6CF3A50BCD6-803E
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 2B: Steer. Col. Lock (J764)       Labels:* 5K0-905-861.clb
+   Part No SW: 5K0 905 861 D    HW: 5K0 905 861 D
+   Component: ELV-PQ35      H22 0240  
+   Revision: 00000000    Serial number: 16000053127005
+   Coding: 4900000000000000
+   Shop #: WSC 01357 011 00200
+   ASAM Dataset: EV_ELVMarquMPVW36X A01001
+   ROD: EV_ELVMarquMPVW36X_VW01.rod
+   VCID: 313F17A781A516D3CCC-8064
+
+1 Fault Found:
+13893888 - Function Restricted due to Excessive Voltage 
+          U1401 00 [008] - -
+          [Over volatage (temporary)]
+          Intermittent - Confirmed - Tested Since Memory Clear
+             Freeze Frame:
+                    Fault Status: 00000001
+                    Fault Priority: 6
+                    Fault Frequency: 1
+                    Reset counter: 42
+                    Mileage: 63091 km
+                    Date: 2021.02.06
+                    Time: 17:09:02
+
+                    ELV State: 0C
+                    Information Clamps: 77 60
+                    CoCo State: B0 01
+                    WFS State: 67 1A
+                    Vehicle speed: 0.00 km/h
+                    Voltage: 86
+
+
+-------------------------------------------------------------------------------
+Address 36: Seat Mem. Drvr (J136)       Labels: None
+   Part No SW: 561 959 760 C    HW: 561 959 760 C
+   Component: MEM-FS        H04 0183  
+   Revision: AA000000    Serial number: 00000140374058
+   Coding: 00581B0000000000000001010101202020202121202020
+   Shop #: WSC 01357 011 00200
+   VCID: 2313EDEFCBD9B4434E0-8076
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 42: Door Elect, Driver (J386)       Labels:| 3C0-959-70X-GEN4.clb
+   Part No SW: 5N0 959 701 J    HW: 3C0 959 793 J
+   Component: TUER-SG FT    002 0601  
+   Revision: 12100010    Serial number: 0010469785
+   Coding: 0015B6
+   Shop #: WSC 01357 011 00200
+   ASAM Dataset: EV_TSGFPQ35BRFVW46X A04004
+   ROD: EV_TSGFPQ35BRFVW46X_VW36.rod
+   VCID: 3C21369356E7EBBB6FA-8068
+
+   Slave Driver: 
+   Subsystem 1 - Part No SW: 5N0 959 703 G    HW: 3C0 959 794 D  Labels: 1K0-959-70X-GEN4.CLB
+   Component: J388__TSG-HL  010 1505 
+   Serial number: 00000009723749      
+   Coding: 000490
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 44: Steering Assist        Labels: 5N1-909-144.clb
+   Part No SW: 5N1 909 144 S    HW: 5N1 909 148 K
+   Component: J500__APA-BS KL.286 1501  
+   Revision: 1BH04842    Serial number: 00160900195001
+   Coding: 0000258
+   Shop #: WSC 01357 011 00200
+   VCID: 42DD486B38839D4B256-8016
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 47: Sound System (R12)       Labels: 5K0-035-456.clb
+   Part No SW: 5C6 035 456 C    HW: 5C6 035 456 C
+   Component: KonzernAmp10K H09 6831  
+   Revision: --------    Serial number: EAA098C0088659
+   ASAM Dataset: EV_AudioVerst10KanalSTT3 S01001
+   ROD: EV_AudioVerst10KanalSTT3_VW36.rod
+   VCID: 2809FAC3B27F571B1B2-807C
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 4F: Centr. Electr. II (J520)       Labels:. 1K0-907-532.clb
+   Part No SW: 7N0 907 532     HW: 7N0 907 530 AM
+   Component: EZE_2         H55 1673  
+   Revision:   H55       Serial number: 270316F1000090
+   Coding: 050B0500
+   Shop #: WSC 01357 011 00200
+   VCID: 6FBBD1DF579140239A8-803A
+
+   Subsystem 1 - Part No SW: 7N0 959 591 B    HW: 7N0 959 591 B
+   Component: J245EE04SKB03  H04 0090 
+   Serial number: 0123456789ABCDEFGHIJ
+
+   Subsystem 2 - Part No SW: 7N0 959 591 B    HW: 7N0 959 591 B
+   Component: J394EE04SKB03  H04 0090 
+   Serial number: 0123456789ABCDEFGHIJ
+
+1 Fault Found:
+01512 - Control Module for Sliding Roof 
+            005 - No or Incorrect Basic Setting / Adaptation
+             Freeze Frame:
+                    Fault Status: 01100101
+                    Fault Priority: 2
+                    Fault Frequency: 1
+                    Reset counter: 40
+                    Mileage: 43379 km
+                    Time Indication: 0
+                    Date: 2019.11.21
+                    Time: 11:39:59
+
+
+-------------------------------------------------------------------------------
+Address 52: Door Elect, Pass. (J387)       Labels:| 3C0-959-70X-GEN4.clb
+   Part No SW: 5N0 959 702 J    HW: 3C0 959 792 J
+   Component: TUER-SG BT    002 0601  
+   Revision: 14100010    Serial number: 0010481754
+   Coding: 0015B6
+   Shop #: WSC 01357 011 00200
+   ASAM Dataset: EV_TSGBPQ35BRFVW46X A04004
+   ROD: EV_TSGBPQ35BRFVW46X_VW36.rod
+   VCID: 3D273B974DFDE2B3584-8068
+
+   Slave Passenger: 
+   Subsystem 1 - Part No SW: 5N0 959 704 G    HW: 3C0 959 795 D  Labels: 1K0-959-70X-GEN4.CLB
+   Component: J389__TSG-HR  010 1505 
+   Serial number: 00000009720388      
+   Coding: 000490
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 53: Parking Brake        Labels: 3AA-907-801.clb
+   Part No SW: 3AA 907 801 J    HW: 3AA 907 801 J
+   Component: J540 EPB4  VW-63206 0012  
+   Revision:   H20       Serial number: 00000000068273
+   Coding: 0026156
+   Shop #: WSC 01357 011 00200
+   VCID: 38292A836E5FC79B8B2-806C
+
+1 Fault Found:
+03263 - Functional Restriction 
+            008 - Implausible Signal
+             Freeze Frame:
+                    Fault Status: 01111000
+                    Fault Priority: 1
+                    Fault Frequency: 1
+                    Reset counter: 2
+                    Mileage: 63091 km
+                    Time Indication: 0
+                    Date: 2021.02.06
+                    Time: 18:48:48
+
+             Freeze Frame:
+                    Voltage: 13.90 V
+                    Count: 135
+                    Speed: 0.0 km/h
+                    Hex Value: 0x1270
+                    Hex Value: 0x0001
+                    Hex Value: 0x1001
+
+
+-------------------------------------------------------------------------------
+Address 55: Headlight Range (J745)       Labels:. 5M0-907-357-V3.clb
+   Part No SW: 5M0 907 357 F    HW: 7L6 907 357 C
+   Component: AFS-ECU       H05 0111  
+   Revision: --------    Serial number: --------------
+   Coding: 041A00010B000400
+   Shop #: WSC 01357 011 00200
+   ASAM Dataset: EV_HeadlRegulVWAFSPt 002016
+   ROD: EV_HeadlRegulVWAFSPt_VW32.rod
+   VCID: 372B29BF6FC1C8E3828-8062
+
+   Left_headlamp_power_output_stage: 
+   Subsystem 1 - Part No: 5N0 941 329   Labels: 3D0-941-329.CLB
+
+   Right_headlamp_power_output_stage: 
+   Subsystem 2 - Part No: 5N0 941 329   Labels: 3D0-941-329.CLB
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 5F: Information Electr. (J794)       Labels:| 5G0-035-MIB-STD2.clb
+   Part No SW: 5C0 035 684     HW: 5C0 035 684 
+   Component: MU-S-NS-US    H22 0247  
+   Serial number: VWZAZ2S0136482
+   Coding: 02130602AA00000051220003001808001F0100C400200105C6
+   Shop #: WSC 01357 011 00200
+   ASAM Dataset: EV_MUStd4CTSAT 001022
+   ROD: EV_MUStd4CTSAT_VW32.rod
+   VCID: 629DA8EB94C3FD4B056-8036
+
+   Data carrier: 
+   Subsystem 1 - Part No SW: 3G0 919 866 B    HW: -----------
+   Component: NAR 2015/16  --- 0220 
+   Serial number: --------------------
+
+2 Faults Found:
+1539 - Function Restricted due to Insufficient Voltage 
+          U1400 00 [008] - -
+          [Function restriction due to insufficient voltage - lower limit value not reached]
+          Intermittent - Confirmed - Tested Since Memory Clear
+             Freeze Frame:
+                    Fault Status: 00000001
+                    Fault Priority: 6
+                    Fault Frequency: 1
+                    Reset counter: 88
+                    Mileage: 52233 km
+                    Date: 2020.06.12
+                    Time: 05:08:07
+
+                    Voltage terminal 30: 9.9 V
+
+0555 - Audio signal output 4 
+          B14F4 11 [009] - Short to Ground
+          Confirmed - Tested Since Memory Clear
+             Freeze Frame:
+                    Fault Status: 00000001
+                    Fault Priority: 6
+                    Fault Frequency: 254
+                    Reset counter: 2
+                    Mileage: 559 km
+                    Date: 2016.07.07
+                    Time: 16:06:56
+
+                    Voltage terminal 30: 12.5 V
+
+
+-------------------------------------------------------------------------------
+Address 6C: Back-up Cam. (J772)       Labels:| 5Q0-907-441.clb
+   Part No SW: 7N0 907 441 B    HW: 7N0 907 441 B
+   Component: VW428 RVC Mid H04 0040  
+   Coding: 011306012001000700
+   Shop #: WSC 01357 011 00200
+   ASAM Dataset: EV_CamSysRearPANAVW428 002002
+   ROD: EV_CamSysRearPANAVW428.rod
+   VCID: 303912A38AAF1FDBC32-8064
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 75: Telematics (J949)       Labels:| 12E-035-284.clb
+   Part No SW: 561 035 285 A    HW: 561 035 285 A
+   Component: OCULowUSA     020 0158  
+   Serial number: 000003554140549
+   Coding: 02130602C24232107F1606020000
+   Shop #: WSC 01357 011 00200
+   ASAM Dataset: EV_OCULow 002010
+   ROD: EV_OCULow_002.rod
+   VCID: 1471BE331EF7C3FBC7A-8040
+
+No fault code found.
+
+End----(Elapsed Time: 01:52, VBatt start/end: 12.1V/12.0V. VIgn 11.9V)-----
